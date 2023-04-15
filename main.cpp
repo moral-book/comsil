@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include "Stack.h"
+#include <bits/stdc++.h>
+#include <iostream>
 
 void prnMenu(){
 	cout<<"*******************************************"<<endl;
