@@ -1,5 +1,5 @@
 #include "LinkedList.h"
-
+#include <algorithm>
 
 //1. 템플릿 클래스로 확장해야함
 //2. Stack형식으로 Delete 함수 재정의해야함
